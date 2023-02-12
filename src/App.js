@@ -19,11 +19,9 @@ function App() {
           Learn React
         </a>
       </header>
-      <section className="Main">
-        <p>This is the main paragraph, which will contain a resume.</p>
-      </section>
+      
     </div>
-    //<div className="header"></div>
+    
   );
 }
 
