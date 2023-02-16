@@ -1,16 +1,16 @@
 {
-  "files": {
-    "main.css": "/pranjalis-app/static/css/main.073c9b0a.css",
-    "main.js": "/pranjalis-app/static/js/main.450c2949.js",
-    "static/js/787.a9ea5e71.chunk.js": "/pranjalis-app/static/js/787.a9ea5e71.chunk.js",
-    "static/media/logo.svg": "/pranjalis-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/pranjalis-app/index.html",
-    "main.073c9b0a.css.map": "/pranjalis-app/static/css/main.073c9b0a.css.map",
-    "main.450c2949.js.map": "/pranjalis-app/static/js/main.450c2949.js.map",
-    "787.a9ea5e71.chunk.js.map": "/pranjalis-app/static/js/787.a9ea5e71.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.450c2949.js"
-  ]
+  "main.css": "/pranjalis-app/static/css/main.ece3a275.chunk.css",
+  "main.js": "/pranjalis-app/static/js/main.1e0214f3.chunk.js",
+  "main.js.map": "/pranjalis-app/static/js/main.1e0214f3.chunk.js.map",
+  "static/js/1.3c11774c.chunk.js": "/pranjalis-app/static/js/1.3c11774c.chunk.js",
+  "static/js/1.3c11774c.chunk.js.map": "/pranjalis-app/static/js/1.3c11774c.chunk.js.map",
+  "static/js/2.6422faee.chunk.js": "/pranjalis-app/static/js/2.6422faee.chunk.js",
+  "static/js/2.6422faee.chunk.js.map": "/pranjalis-app/static/js/2.6422faee.chunk.js.map",
+  "runtime~main.js": "/pranjalis-app/static/js/runtime~main.539ad140.js",
+  "runtime~main.js.map": "/pranjalis-app/static/js/runtime~main.539ad140.js.map",
+  "static/media/logo.svg": "/pranjalis-app/static/media/logo.06e73328.svg",
+  "static/css/main.ece3a275.chunk.css.map": "/pranjalis-app/static/css/main.ece3a275.chunk.css.map",
+  "index.html": "/pranjalis-app/index.html",
+  "precache-manifest.10263b6649a9ad70c35f82550de8694c.js": "/pranjalis-app/precache-manifest.10263b6649a9ad70c35f82550de8694c.js",
+  "service-worker.js": "/pranjalis-app/service-worker.js"
 }
