@@ -10,8 +10,8 @@ function App() {
         <p>
           Hello! my name is Pranjali and this is my first website.
           Testing 123456
-          This is branch1
-          
+          This is master and not branch2
+          not gayyyy
         </p>
         <a
           className="App-link"
