@@ -2,7 +2,7 @@ import React from "react";
 import "./displayweather.css";
 function DisplayWeather(props) {
   const { data } = props;
-  /*const iconurl = "http://openweathermap.org/img/wn/" + `${data.cod !== 404 ? data.weather[0].icon : null}` + ".png";*/
+  const iconurl = "http://openweathermap.org/img/wn/" + `${data.cod !== 404 ? data.weather[0].icon : null}` + ".png";
   return (
     <div className="displayweather">
       {data.cod !== 404 ? (
@@ -21,7 +21,7 @@ function DisplayWeather(props) {
               <sup>o</sup>
             </h1>
             <span className="weather-main">{data.weather[0].main}</span>
-            {/*<img className="weather-icon" src={iconurl} alt="" srcSet="" />*/}
+            <img className="weather-icon" src={iconurl} alt="" srcSet="" />
             <span className="weather-description">
               {" "}
               {data.weather[0].description}
